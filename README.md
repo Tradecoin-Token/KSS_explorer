@@ -1,2 +1,2 @@
-# WIND Explorer
+# KSS Explorer
 
